@@ -1,1 +1,25 @@
+# Hi, I'm Tim Byers 👋
 
+**Junior Web Developer** based in Rio Rancho, New Mexico. Open to remote and Albuquerque-area roles.
+
+I'm a graduate of the **CNM Deep Dive Web Development & AI Tools Bootcamp**, where I built modern websites with HTML, CSS, JavaScript and React, from planning and design through to deployment. Before moving into web development, I spent 15 years in quality-controlled manufacturing (GMP and ISO environments). That work taught me to test carefully, document clearly and follow a process, and I bring all three to my code.
+
+I like building things people can see and use, especially clean, responsive sites for small businesses.
+
+## 🛠️ Tech I work with
+
+**Front end:** HTML · CSS · JavaScript (ES6+) · TypeScript · React · React Router · Tailwind CSS · Flowbite
+**Back end and data:** Node.js · Express · PostgreSQL
+**Tools and deployment:** Git & GitHub · GitHub Actions · Vite · Docker · Linux server deployment over SSH
+**Ways of working:** responsive and mobile-first design · AI-assisted development
+
+## 🚀 Featured projects
+
+| Project | What it is | Tech |
+|---|---|---|
+| [**Shoreline Wellness**](https://github.com/tbyers007/shoreline-wellness-pwp) · [Live site](https://timbyers.dev) | Concept website for a real wellness practitioner, built from user persona and wireframes through to automated deployment | Vite · Tailwind · Flowbite · JavaScript · GitHub Actions |
+| [**Full Tilt Coffee**](https://github.com/tbyers007/full-tilt-coffee-website) | Coffee shop website built from reusable React components (in progress) | React · React Router · TypeScript · Tailwind |
+## 📫 Contact
+
+- 🌐 [timbyers.dev](https://timbyers.dev)
+- 📧 timothy.byers007@gmail.com
