@@ -17,6 +17,7 @@ I like building things people can see and use, especially clean, responsive site
 
 | Project | What it is | Tech |
 |---|---|---|
+| [**BrewMatch**](https://github.com/Java-23-web-52-coffee/coffee-app) (team capstone) | Full-stack app that matches users with local coffee shops based on their preferences and past visits. I built auth APIs, database tables, search, "near me" search, tags, saved shops and the preferences page. | React · TypeScript · Node.js · Express · PostgreSQL · Docker |
 | [**Shoreline Wellness**](https://github.com/tbyers007/shoreline-wellness-pwp) · [Live site](https://timbyers.dev) | Concept website for a real wellness practitioner, built from user persona and wireframes through to automated deployment | Vite · Tailwind · Flowbite · JavaScript · GitHub Actions |
 | [**Full Tilt Coffee**](https://github.com/tbyers007/full-tilt-coffee-website) | Coffee shop website built from reusable React components (in progress) | React · React Router · TypeScript · Tailwind |
 ## 📫 Contact
