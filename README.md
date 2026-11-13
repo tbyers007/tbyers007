@@ -8,10 +8,10 @@ I like building things people can see and use, especially clean, responsive site
 
 ## 🛠️ Tech I work with
 
-**Front end:** HTML · CSS · JavaScript (ES6+) · TypeScript · React · React Router · Tailwind CSS · Flowbite
-**Back end and data:** Node.js · Express · PostgreSQL
-**Tools and deployment:** Git & GitHub · GitHub Actions · Vite · Docker · Linux server deployment over SSH
-**Ways of working:** responsive and mobile-first design · AI-assisted development
+- **Front end:** HTML · CSS · JavaScript (ES6+) · TypeScript · React · React Router · Tailwind CSS · Flowbite
+- **Back end and data:** Node.js · Express · PostgreSQL
+- **Tools and deployment:** Git & GitHub · GitHub Actions · Vite · Docker · Linux server deployment over SSH
+- **Ways of working:** responsive and mobile-first design · AI-assisted development
 
 ## 🚀 Featured projects
 
